@@ -3,7 +3,7 @@ Třetí projekt na Python Akademii od Engeta.
 # Popis projektu
 Tento projekt slouží k extrahování výsledků palamentních voleb v roce 2017. Odkaz k prohlédnutí najdete [zde](https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ).
 # Instalace knihoven
-Knihovny, které jsou použity v kódujsou uložené v souboru requirements.txt. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
+Knihovny, které jsou použity v kódu jsou uložené v souboru requirements.txt. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
 ```
 $ pip3 --version # overim verzi manazeru
 $ pip3 install -r requirements.txt # nainstalujeme knihovny
